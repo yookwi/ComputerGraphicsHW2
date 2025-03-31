@@ -16,7 +16,7 @@ Q3.
 
 (64개가 안돼서 32개로 찍었습니다.)
 
-
+----------------------------------------------------
 
 하나의 프로젝트에 main파일이 3개 있습니다. 
 
@@ -39,6 +39,7 @@ For the other two files, set Exclude from Build to Yes.
 
 After that, click Start Without Debugging to run the program.
 
+----------------------------------------------------
 
 코드에 대한 설명의 주석은 hw2-3에 정리되어있습니다.
 
