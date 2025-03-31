@@ -1,0 +1,24 @@
+﻿  hw2-3.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+C:\Users\yookw\OneDrive\바탕 화면\hw2\ComputerGraphicsHW1-master\EmptyViewer\hw2-3.cpp(285,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yookw\OneDrive\바탕 화면\hw2\ComputerGraphicsHW1-master\EmptyViewer\hw2-3.cpp(285,43): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\yookw\OneDrive\바탕 화면\hw2\ComputerGraphicsHW1-master\EmptyViewer\hw2-3.cpp(316,96): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\yookw\OneDrive\바탕 화면\hw2\ComputerGraphicsHW1-master\EmptyViewer\hw2-3.cpp(316,91): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\yookw\OneDrive\바탕 화면\hw2\ComputerGraphicsHW1-master\EmptyViewer\hw2-3.cpp(316,86): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\yookw\OneDrive\바탕 화면\hw2\ComputerGraphicsHW1-master\EmptyViewer\hw2-3.cpp(316,80): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\yookw\OneDrive\바탕 화면\hw2\ComputerGraphicsHW1-master\EmptyViewer\hw2-3.cpp(316,75): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\yookw\OneDrive\바탕 화면\hw2\ComputerGraphicsHW1-master\EmptyViewer\hw2-3.cpp(329,44): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yookw\OneDrive\바탕 화면\hw2\ComputerGraphicsHW1-master\EmptyViewer\hw2-3.cpp(329,38): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\yookw\OneDrive\바탕 화면\hw2\ComputerGraphicsHW1-master\EmptyViewer\hw2-3.cpp(335,12): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  EmptyViewer.vcxproj -> C:\Users\yookw\OneDrive\바탕 화면\hw2\ComputerGraphicsHW1-master\bin\EmptyViewer.exe
