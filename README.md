@@ -1,17 +1,13 @@
-# Computer Graphics HW1
+# Computer Graphics HW2
 
-![스크린샷 2025-03-24 225959](https://github.com/user-attachments/assets/561a5a19-1a24-4b0e-a65a-cdc04824c32e)
+Q1.
+![스크린샷 2025-03-31 163042](https://github.com/user-attachments/assets/87c26677-6aba-48f2-9edb-b3418498fad0)
+Q2.
+![스크린샷 2025-03-31 163100](https://github.com/user-attachments/assets/054f37bf-2573-403a-aedb-10a64770cdf8)
+Q3.
+![스크린샷 2025-03-31 161844](https://github.com/user-attachments/assets/fbfad98e-5df8-497b-abc0-a8caa8d5f451)
+(64개가 안돼서 32개로 찍었습니다.)
 
-You can open the OpenglViewer.sln file in Visual Studio and run it by clicking 'Start Without Debugging' without any special settings.
-
-Comments in code explain a short description of what the different parts of the program do. (MainRayTracer.cpp file in the Source Files folder)
-
-Except for the libraries used in the sample code, no additional external libraries are required.
-
-
-
-OpenglViewer.sln 파일로 visual studio을 열고 특별한 설정없이 디버그하지 않고 시작을 눌러서 실행할 수 있습니다.
-
-Source Files 폴더 안 MainRayTracer.cpp 파일의 주석으로 프로그램의 각 부분이 어떤 역할을 하는지를 작성했습니다.
-
-Sample Code에 사용된 라이브러리를 제외하면, 추가적으로 필요한 외부 라이브러리는 없습니다.
+하나의 프로젝트에 main파일이 3개 있습니다. 
+hw2-1, hw2-2, hw2-3이 각각 Q1,Q2,Q3를 의미합니다.
+실행하고 싶은 파일의 속성에 들어가, 
