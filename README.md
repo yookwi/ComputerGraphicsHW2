@@ -38,3 +38,8 @@ Right-click on the file you want to run, go to Properties, then navigate to Conf
 For the other two files, set Exclude from Build to Yes.
 
 After that, click Start Without Debugging to run the program.
+
+
+코드에 대한 설명의 주석은 hw2-3에 정리되어있습니다.
+
+The comments explaining the code are organized in hw2-3.
