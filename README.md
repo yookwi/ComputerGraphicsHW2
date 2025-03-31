@@ -16,8 +16,25 @@ Q3.
 
 (64개가 안돼서 32개로 찍었습니다.)
 
+
+
 하나의 프로젝트에 main파일이 3개 있습니다. 
+
 hw2-1, hw2-2, hw2-3이 각각 Q1,Q2,Q3를 의미합니다.
+
 실행하고 싶은 파일을 우클릭해서 속성에 들어가, 구성 속성 -> 일반 -> 빌드에서 제외 를 아니오로 바꿉니다.
+
 나머지 두 파일는 빌드에서 제외 를 예로 바꿉니다.
+
 이후 디버그하지 않고 시작 등을 눌러 실행합니다.
+
+
+There are three main files in a single project.
+
+hw2-1, hw2-2, and hw2-3 correspond to Q1, Q2, and Q3, respectively.
+
+Right-click on the file you want to run, go to Properties, then navigate to Configuration Properties → General, and set Exclude from Build to No.
+
+For the other two files, set Exclude from Build to Yes.
+
+After that, click Start Without Debugging to run the program.
