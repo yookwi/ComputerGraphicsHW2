@@ -28,6 +28,8 @@ hw2-1, hw2-2, hw2-3이 각각 Q1,Q2,Q3를 의미합니다.
 
 이후 디버그하지 않고 시작 등을 눌러 실행합니다.
 
+(+Q3.에 경우 연산이 오래걸려 실행되지 않을 수 있습니다. 339번째 줄에 randomNum값을 수정해서 실행하실 수 있습니다.)
+
 
 There are three main files in a single project.
 
@@ -38,6 +40,8 @@ Right-click on the file you want to run, go to Properties, then navigate to Conf
 For the other two files, set Exclude from Build to Yes.
 
 After that, click Start Without Debugging to run the program.
+
+(+Q3. In this case, the operation may take too long to execute and may not run. You can modify the value of "randomNum" on line 339 to make it executable.)
 
 ----------------------------------------------------
 
